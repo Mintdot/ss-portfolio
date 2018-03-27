@@ -36,6 +36,7 @@ html, body {
 header {
     width: 100%;
     position: fixed;
+    z-index: 999;
 }
 
 #title_wrap {
@@ -82,8 +83,8 @@ header {
     background-color: #488bed;
 }
 
-/* contents */
-section {
+/* content */
+.content {
     width: 100%;
     padding-top: 350px;
 }
@@ -97,19 +98,29 @@ section {
     width: 60px;
     height: 4px;
     background: #488bed;
-    margin: 10px auto 10px auto;
+    margin: 10px auto auto auto;
 }
 
-.portfolio_wrap {
+.portfolio_big_wrap {
     width: 1280px;
     margin: 0 auto;
 }
 
+.portfolio_small_wrap {
+    width: 410px;
+    float: left;
+}
+
+.portfolio_second_line {
+    margin: 0 25px 0 25px;
+}
+
 .portfolio {
-    width: 420px;
-    margin: 0 auto;
+    width: 410px;
+    margin-top: 10px;
     position: relative;
     cursor: pointer;
+    z-index: 1;
 }
 
 .portfolio_image {
