@@ -16,3 +16,15 @@ function fadeInOut(load, wrap) {
     }, 1000);
     clearInterval();
 }
+
+function view(year_id) {
+    year_id = "year" + year_id;
+    var year = document.getElementById(year_id);
+    var other_years = document.getElementsByClassName("content");
+
+    for(var i = 0; i < other_years.length; i++) {
+        var other_year = other_years.item(i);
+        other_year.classList.remove("view");
+    }
+    year.classList.add("view");
+}

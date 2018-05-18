@@ -112,13 +112,25 @@ header {
 }
 
 /* content */
+
+
 .content {
     width: 1280px;
     padding-top: 350px;
     margin: 0 auto;
+    display: none;
 }
 
-.title {
+.view {
+    display: block;
+}
+
+.big_title {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.small_title {
     text-align: center;
     font-size: 2em;
 }
