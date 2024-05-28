@@ -7,7 +7,7 @@
 > 2. [추가바람](https://github.com/Mintdot/ss-portfolio/edit/master/README.md)
 ### 1.1.2. WEB
 > 1. [sdhs-promotion-page](https://github.com/Mintdot/sdhs-promotion-page)
-> 2. [ssbot](https://github.com/Mintdot/ss-bot)
+> 2. [ss-bot](https://github.com/Mintdot/ss-bot)
 > 3. [추가바람](https://github.com/Mintdot/ss-portfolio/edit/master/README.md)
 
 ## 1.2. SOLO
