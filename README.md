@@ -3,18 +3,18 @@
 # 1. 2017년
 ## 1.1. TEAM
 ### 1.1.1. APP
-> 1. [SSchat](https://github.com/Mintdot/SSchat)
-> 2. [추가바람](https://github.com/Mintdot/SSPortfolio/edit/master/README.md)
+> 1. [ss-chat](https://github.com/Mintdot/ss-chat)
+> 2. [추가바람](https://github.com/Mintdot/ss-portfolio/edit/master/README.md)
 ### 1.1.2. WEB
-> 1. [SDHS_PromotionPage](https://github.com/Mintdot/SDHS_PromotionPage)
-> 2. [ssbot](https://github.com/Mintdot/ssbot)
-> 3. [추가바람](https://github.com/Mintdot/SSPortfolio/edit/master/README.md)
+> 1. [sdhs-promotionPage](https://github.com/Mintdot/sdhs-promotion-page)
+> 2. [ssbot](https://github.com/Mintdot/ss-bot)
+> 3. [추가바람](https://github.com/Mintdot/ss-portfolio/edit/master/README.md)
 
 ## 1.2. SOLO
 ### 1.2.1. APP
-> 1. [RockPaperScissors](https://github.com/Mintdot/RockPaperScissors)
-> 2. [추가바람](https://github.com/Mintdot/SSPortfolio/edit/master/README.md)
+> 1. [rock-paper-scissors](https://github.com/Mintdot/rock-paper-scissors)
+> 2. [추가바람](https://github.com/Mintdot/ss-portfolio/edit/master/README.md)
 
 ### 1.2.2. WEB
-> 1. [DataVisualization](https://github.com/Mintdot/DataVisualizatione)
-> 2. [추가바람](https://github.com/Mintdot/SSPortfolio/edit/master/README.md)
+> 1. [data-visualization](https://github.com/Mintdot/data-visualization)
+> 2. [추가바람](https://github.com/Mintdot/ss-portfolio/edit/master/README.md)
